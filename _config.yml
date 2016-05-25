@@ -1,12 +1,12 @@
 # Site settings
-title: Adrian's Profile
-email: hello@wheelhouse.io
+title: Tech Ox
+email: oscar.delgadillo@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Learn to use GitHub pages with Wheelhouse.io and Patchwork!
-baseurl: "/project-gh-pages"
-url: "http://wheehouseio.github.io"
-twitter_username: WheelhouseIO
-github_username:  wheelhouseio
+  Bringing beginner tech topics to the masses.
+baseurl: "/"
+url: "http://countaight.github.io"
+twitter_username: countaightblah
+github_username:  countaight
 permalink: /blog/:year/:title/
 
 
